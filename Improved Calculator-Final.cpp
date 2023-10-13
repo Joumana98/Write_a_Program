@@ -1,7 +1,5 @@
-// Exercise 5, 6 & 7
 // read whitespace as an end of an expression
 //Add some instructions
-// Exercise 9
 // Suggest an improvement: type prev to use the last calculated value in current expression
 
 #include "std_lib_facilites.h"
